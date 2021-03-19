@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #0c121b;
+}
+.box {
+    text-align: center;
+}
+.image {
+    max-width: 980px;
+}
+.title {
+    text-align: center;
+    color: #fff;
+    margin: 100px 0;
+    font-size: 48px;
+    font-family: "Sail";
+}
+.text {
+    color: #fff;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Montserrat';
+    margin-bottom: 20px;
+}
+a{
+    text-decoration: none;
+}
+.link {
+    color: #F29A4B;
+}
